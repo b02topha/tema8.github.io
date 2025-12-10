@@ -9,6 +9,8 @@ output:
   html_document:
     toc: true
     toc_float: true
+    github_document:
+      html_preview: false
 bibliography: ["zotero.bib", "libraries.bib"]
 link-citations: true
 ---
